@@ -8,7 +8,7 @@
 
 ## 介绍视频
 
-[观看介绍视频（MP4，约 28 MB）](docs/media/recents-drag-introduction.mp4)
+https://github.com/user-attachments/assets/16764513-2cfb-4185-8ce2-fde73a13d15d
 
 ## 安装与授权
 
