@@ -6,6 +6,10 @@
 
 [下载 Recents Drag 0.9（Apple Silicon / arm64，DMG）](https://github.com/Caojd181/Recents_Drag/releases/download/v0.9.0/Recents-Drag-0.9-arm64.dmg) · [版本说明与历史版本](https://github.com/Caojd181/Recents_Drag/releases)
 
+## 介绍视频
+
+[观看介绍视频（MP4，约 34 MB）](docs/media/recents-drag-introduction.mp4)
+
 ## 安装与授权
 
 面向 Apple Silicon（M 系列）Mac，macOS 14 及以上；目前仅在 macOS 26.3 实测。使用前，Dock 中需已有原生「最近使用」入口。
