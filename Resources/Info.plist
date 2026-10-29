@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleIdentifier</key><string>com.caojd.RecentsDragDemo</string>
+  <key>CFBundleName</key><string>Recents Drag</string>
+  <key>CFBundleDisplayName</key><string>Recents Drag</string>
+  <key>CFBundleIconFile</key><string>AppIcon.icns</string>
+  <key>CFBundleExecutable</key><string>RecentsDragDemo</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>0.9</string>
+  <key>CFBundleVersion</key><string>9</string>
+  <key>LSMinimumSystemVersion</key><string>14.0</string>
+  <key>LSUIElement</key><true/>
+  <key>NSHighResolutionCapable</key><true/>
+  <key>NSDocumentsFolderUsageDescription</key><string>用于把“最近使用”中的原文件拖到目标应用。</string>
+  <key>NSDesktopFolderUsageDescription</key><string>用于把“最近使用”中的桌面文件拖到目标应用。</string>
+  <key>NSDownloadsFolderUsageDescription</key><string>用于把“最近使用”中的下载文件拖到目标应用。</string>
+</dict></plist>

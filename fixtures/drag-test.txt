@@ -1,0 +1,4 @@
+Recents Drag Demo
+
+This is a disposable test file for the native Dock drag experiment.
+The original should remain here after dragging a copy to another folder.
